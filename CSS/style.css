@@ -1,0 +1,45 @@
+
+body
+{
+    background-color: lightseagreen;
+}
+
+.container h1
+{
+
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: 900;
+    color: black;
+}
+
+.container p
+{
+    font-size: 35px;
+    color: indigo;
+    font-family: "segoe ui lights";
+ 
+    
+
+}
+
+.container button
+{
+
+    width: 200px;
+    height: 80px;
+    background-color: turquoise;
+    color: black;
+    font-weight: 700;
+    letter-spacing: 2px;
+    transition: all 0.5s;
+}
+
+.container button:hover
+{
+    
+   width: 180px;
+    background-color: black;
+    border-radius: 50px;
+  
+}
